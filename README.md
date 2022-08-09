@@ -1,4 +1,4 @@
-# Exclude/ Include certain fields in Kafka records using SMT
+# Exclude/ Include a subset of fields in Kafka records using SMT
 Note: I am using Confluent Cloud which provides a Fully Managed Kafka Service, Connectors, Schema-Registry and ksqlDB for Real-time Event Streaming and Processing.
 
 ### Example data generated from source
